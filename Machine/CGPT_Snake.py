@@ -1,4 +1,4 @@
-# # # prompt 1
+# # # Prompt(i would like you to write python code for the game 'Snake') ###
 
 import pygame
 import time
